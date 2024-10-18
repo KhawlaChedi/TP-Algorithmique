@@ -1,0 +1,31 @@
+Dans le cadre de ce TP algorithmique, plusieurs exercices ont été réalisés pour approfondir nos connaissances en programmation et en algorithmique. Ce rapport met en lumière les principales difficultés rencontrées lors de la réalisation des exercices 2, 4 et 5.
+
+*****************************************Difficultés Rencontrées**************************************
+*Exercice 2
+*Objectif : Trouver la sous-séquence avec le plus d'éléments dont la somme est divisible par un entier positif k.
+
+*Difficultés :
+
+-Algorithme de Programmation Dynamique : La mise en place de l'algorithme de programmation dynamique a été complexe, car il nécessite une bonne compréhension des sous-problèmes et de la manière de les combiner pour obtenir la solution optimale.
+
+-Gestion des Indices : Suivre les indices des éléments de la sous-séquence a également posé problème, en particulier pour la reconstruction de la solution finale à partir des données intermédiaires.
+
+*Exercice 4
+*Objectif : Déterminer si un graphe est connexe et identifier toutes ses composantes connexes.
+
+*Difficultés :
+
+-Parcours du Graphe : La compréhension des différentes méthodes de parcours (DFS, BFS) pour explorer le graphe a nécessité du temps, notamment pour s'assurer que toutes les composantes étaient correctement identifiées.
+
+-Structure des Données : Choisir entre une matrice d'adjacence et une liste d'adjacence a compliqué la mise en œuvre, car chaque structure nécessite des adaptations dans l'algorithme.
+
+*Exercice 5
+*Objectif : Trouver le chemin le plus court entre deux sommets dans un graphe pondéré.
+
+*Difficultés :
+
+Implémentation de l'Algorithme de Dijkstra : La mise en œuvre de l'algorithme de Dijkstra s'est révélée difficile, en particulier pour gérer les différentes structures de données (matrice d'adjacence, liste d'adjacence et tas). Chaque représentation implique des ajustements dans la logique de l'algorithme.
+
+Complexité du Code : La nécessité de gérer les chemins les plus courts pour tous les sommets, et non seulement pour un couple de sommets, a ajouté une complexité supplémentaire au code.
+
+
